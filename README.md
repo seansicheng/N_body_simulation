@@ -6,9 +6,12 @@ Here's an example for 100000 particles.
 
 Random field at begining: 
 ![Alt text](0.png)
+
 After 10 iteration:
 ![Alt text](10.png)
+
 After 50 iteration:
 ![Alt text](50.png)
+
 After 100 iteration:
 ![Alt text](99.png)
